@@ -1,0 +1,4 @@
+[submodule "behave_common_steps"]
+	path = behave_common_steps
+	branch = master
+	url = https://github.com/fedora-desktop-tests/behave_common_steps.git
